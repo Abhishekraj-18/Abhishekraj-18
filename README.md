@@ -39,11 +39,7 @@ Hello! I'm currently pursuing a **Bachelor of Computer Applications (BCA)** at *
 
 ### 📬 Connect with Me
 
-<a href="https://linkedin.com/in/abhishek-raj45540" target="_blank" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="28" height="28" alt="LinkedIn" />
-</a>
-<a href="mailto:abhishekraj23090@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="28" height="28" alt="Gmail" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-raj45540)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekraj23090@gmail.com)
 
 
